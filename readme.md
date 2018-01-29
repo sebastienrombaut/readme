@@ -31,6 +31,7 @@ Bon ok, un site statique ne tient pas compte de l'utilisateur, il affichera touj
 #### 2. Le MVC
 
 Hi le MVC, alors là j'insère une belle image ! 
+
 ![Image of MVC](http://french.railstutorial.org/images/figures/mvc_detailed-full.png)
 
 
