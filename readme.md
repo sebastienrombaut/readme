@@ -67,7 +67,8 @@ Ca rend les modifications de la base hyper simple et ca :
 
 #### 7. Les relations entre les models des BDD
 
-Mariés pour la vie, ok je reformule
+Mariés pour la vie, ok je reformule. 
+
 Les models interragissent avec la BDD, si on regarde le schéma du point 2, on voit que les models servent à faire le lien entre le controller et la BDD. Les models vont donc recevoir une requête du controller, ils iront chercher la bonne information qui pourra être retournée au controller. 
 
 #### 8. Les fonctions du CRUD
