@@ -30,14 +30,18 @@ Bon ok, un site statique ne tient pas compte de l'utilisateur, il affichera touj
 
 #### 2. Le MVC
 
-Hi le MVC, alors là j'insère une belle image ! 
+Hi le MVC, alors là j'insère une belle image et centrée s'il vous plait !
 
 <p align="center"> 
 <img src="http://french.railstutorial.org/images/figures/mvc_detailed-full.png">
 </p>
-<p align="center">
-![Image of MVC](http://french.railstutorial.org/images/figures/mvc_detailed-full.png)
-</p>
+
+Alors le MVC, vient de l'acronyme : Model View Controller. Avec mes mots, c'est le modèle appliqué pour les interactions backend d'une application rails. 
+On va commencer par le **controller**, qui est la pièce maitresse du modèle. Il coordonne l'ensemble des opérations, lorsque l'utilisateur va faire une requête, le router va orienter la requête sur le **controller** qui appelera la méthode correspondante, il intéragira ensuite avec le **model** qui ira chercher les bonnes infos dans la base de donnée et renverra le résultat directement à notre pote le **controller**. Ce même **controller** enverra une requête au **view** qui lui retournera la page html (avec un peu de ruby dedans) qui va bien. Enfin toujours ce fameux **controller** renverra le tout à notre gentil utilisateur pour qu'il ait une belle page personalisée !
+
+> Trop puissant le controller ! 
+
+#### 3. Les routes 
 
 
 
