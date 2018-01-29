@@ -1,5 +1,4 @@
 <h1>Bienvenue à toi !</h1>
-
 ---
 
 <h4>Petite citation pour te mettre en joie </h4>
