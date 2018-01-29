@@ -43,7 +43,29 @@ On va commencer par le **controller**, qui est la pièce maitresse du modèle. I
 
 #### 3. Les routes 
 
-Ce sont les chemins 
+Ce sont tous les chemins possibles et imaginables dans ton application rails. 
+Plus concrêtement, les routes indiquent les pages accessibles avec le chemin précis, le type de requête qu'il est possible d'appliquer et les méthodes qui sont connues dans l'application.
+
+#### 4. Les Bases de Données
+
+Les bases de données ! Les grosses BDD ! Pour vulgariser, on pourrait comparer ça à de gros tableaux excel qui contiennent toutes les informations de l'application, c'est un peu la mémoire de l'application. Par exemple, c'est dans la base de donnée que seront les informations relatives à l'utilisateur (nom, prénom, email ...) lors de la création de son profil. 
+L'intérêt des bases de données c'est qu'on peut manipuler les données qu'elles contiennent. A la fois pour s'en servir dans les programmes ou aussi pour les modifier. L'appel à ces données se fait avec des petites requêtes SQL ! 
+
+#### 5. GET / POST 
+
+Les copines GET / POST sont des méthodes qui ont chacune leur utilité. 
+GET va permettre de récupérer des données du serveur, pour afficher une page par exemple. 
+POST va permettre d'envoyer des données au serveur, par exemple soumettre un formulaire.
+
+> On va manipuler ça toute la semaine, tu vas trop comprendre à la fin !
+
+#### 6. Le concept de migration
+
+So so, la migration est la modification de la BDD, c'est une modification à chaud avec rails, du temps réel si tu préfères !
+Ca rend les modifications de la base hyper simple et ca :
+> C'est trop cool ! 
+
+#### 7. 
 
 
 ---
