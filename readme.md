@@ -5,7 +5,16 @@
 > C'est trop cool ici, tu vois voir j'explique pleins de trucs, concepts, machins hyper trop stylés ! Parce que moi j'adore trop Rails, je t'envoie du :heart: 
 > (Felix)
 
+### Allez c'est parti pour une belle liste, de type ordonnée, de ce qu'on va voir ensemble : 
+1. La différence entre un site statique et un site dynamique
+2. Le MVC
+3. Les routes 
+4. Les Bases de Données
+5. GET / POST
+6. Le concept de migration
+7. Les relations entre les models des BDD
+8. Les fonctions du CRUD
 
-
+> Désolé si le programme n'est pas hyper sexy mais tu vas voir, on va quand même s'amuser 
 
 ---
