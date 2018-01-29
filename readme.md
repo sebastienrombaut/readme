@@ -53,7 +53,7 @@ L'intérêt des bases de données c'est qu'on peut manipuler les données qu'ell
 
 #### 5. GET / POST 
 
-Les copines GET / POST sont des méthodes qui ont chacune leur utilité. 
+Les copines GET / POST sont des méthodes qui ont chacune leur utilité. </br>
 GET va permettre de récupérer des données du serveur, depuis la base de données vers l'utilisateur, pour afficher une page par exemple. 
 POST va permettre d'envoyer des données au serveur, depuis l'utilisateur jusqu'à la base de donnée, par exemple soumettre un formulaire.
 
