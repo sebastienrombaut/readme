@@ -32,6 +32,9 @@ Bon ok, un site statique ne tient pas compte de l'utilisateur, il affichera touj
 
 Hi le MVC, alors là j'insère une belle image ! 
 
+<p align="center"> 
+<img src="http://french.railstutorial.org/images/figures/mvc_detailed-full.png">
+</p>
 <p align="center">
 ![Image of MVC](http://french.railstutorial.org/images/figures/mvc_detailed-full.png)
 </p>
