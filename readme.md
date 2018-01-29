@@ -17,13 +17,23 @@
 
 > Désolé si le programme n'est pas hyper sexy mais tu vas voir, on va quand même s'amuser ! Oui tu viens de le comprendre, Felix sera parmi nous durant l'ensemble de ce readme :boom: c'est cadeau, je sais que tu n'en as pas assez eu hier ... 
 
-### 1. La différence entre un site statique et un site dynamique
+#### 1. La différence entre un site statique et un site dynamique
 
 Site statique | Site dynamique
 ------------ | -------------
 Statique | Dynamique
 
 Voilà j'ai placé le skill du tableau, next
+Bon ok, un site statique ne tient pas compte de l'utilisateur, il affichera toujours les mêmes données, sans personnalisation. Alors qu'un site dynamique va récupérer pleins d'info sur toi et trop cool après il pourra te dire "Bonjour #{user}" mais surtout il pourra te targeter avec des pubs parfaites pour que tu craques !
+
+> Trop cool le web !
+
+#### 2. Le MVC
+
+Hi le MVC, alors là j'insère une belle image ! 
+![Image of MVC](http://french.railstutorial.org/images/figures/mvc_detailed-full.png)
+
+
 
 
 ---
