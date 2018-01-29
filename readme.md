@@ -65,7 +65,27 @@ So so, la migration est la modification de la BDD, c'est une modification à cha
 Ca rend les modifications de la base hyper simple et ca :
 > C'est trop cool ! 
 
-#### 7. 
+#### 7. Les relations entre les models des BDD
 
+Mariés pour la vie, ok je reformule
+Les models interragissent avec la BDD, si on regarde le schéma du point 2, on voit que les models servent à faire le lien entre le controller et la BDD. Les models vont donc recevoir une requête du controller, ils iront chercher la bonne information qui pourra être retournée au controller. 
+
+#### 8. Les fonctions du CRUD
+
+Ok ca repart en acronyme, ce coup ci avec une liste non ordonnée ! 
+- Create
+- Read
+- Update
+- Detroy
+
+Le CRUD permet de créer l'ensemble de ces fonctions. Il faut vraiment que je te l'explique ? Allez c'est bien parce que je suis cool ! Ce sont des méthodes qui pourront être appelées dans ton application rails
+Create, ca permet de créer, un nouvel article par exemple. Avec read, tu vas pouvoir consulter une donnée, accéder à un article. Avec update, on est plutôt sur de la mise à jour, encore avec mon exemple d'article, tu pourras le modifier. Et enfin, l'arme de destruction massive : le destroy, pour tout péter, ou plus pour supprimer un objet, au hasard un article qui a été crée. 
 
 ---
+
+### Voilà, c'est fini ! J'espère que tout est clair pour toi, je laisse à Felix le mot de la fin 
+> Trop cool Seb, tu déchires grave !
+
+---
+
+Bisous !! 
