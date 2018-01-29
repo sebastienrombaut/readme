@@ -43,7 +43,7 @@ On va commencer par le **controller**, qui est la pièce maitresse du modèle. I
 
 #### 3. Les routes 
 
-
+Ce sont les chemins 
 
 
 ---
