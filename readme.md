@@ -15,6 +15,15 @@
 7. Les relations entre les models des BDD
 8. Les fonctions du CRUD
 
-> Désolé si le programme n'est pas hyper sexy mais tu vas voir, on va quand même s'amuser 
+> Désolé si le programme n'est pas hyper sexy mais tu vas voir, on va quand même s'amuser ! Oui tu viens de le comprendre, Felix sera parmi nous durant l'ensemble de ce readme :boom: c'est cadeau, je sais que tu n'en as pas assez eu hier ... 
+
+### 1. La différence entre un site statique et un site dynamique
+
+Site statique | Site dynamique
+------------ | -------------
+Statique | Dynamique
+
+Voilà j'ai placé le skill du tableau, next
+
 
 ---
